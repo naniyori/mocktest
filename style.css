@@ -18,13 +18,19 @@ body {
   background-color:#fff;
   font-family:sans-serif;
 }
-button{
+a{
+  color:black;
+  text-decoration :none;
+  
+}
+.btn{
   margin: 0 10px 0 10px;
   font-size :35px;
   width : 30vh;
   height :30vh;
   background-color:#fcbdbd;
   border-color:Transparent;
+  display:inline-block;
   
 }
 .inputa{
